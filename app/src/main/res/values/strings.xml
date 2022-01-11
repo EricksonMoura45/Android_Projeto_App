@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cadastro_App</string>
+    <string name="pwcamp">PowerCamp</string>
+    <string name="entrar">Entrar</string>
+    <string name="versao">Versão 1.0.0</string>
+    <string name="bem_vindo">Bem Vindo!</string>
+    <string name="consultar">Consultar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="sobre">Sobre</string>
+    <string name="nome">Nome</string>
+</resources>
